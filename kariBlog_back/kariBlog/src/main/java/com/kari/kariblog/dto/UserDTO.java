@@ -1,0 +1,1 @@
+package com.kari.kariblog.dto;import lombok.Builder;import lombok.Getter;import lombok.Setter;import java.sql.Timestamp;@Getter@Setter@Builderpublic class UserDTO {    private int userId;    private Timestamp createTime;}
