@@ -9,6 +9,7 @@ function Home() {
     <div className="main">
       <img id="logo_dog" className="container" src={LogoDog} />
       <Login></Login>
+      <Register></Register>
       
     </div>
   );

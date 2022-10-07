@@ -1,0 +1,17 @@
+.register{
+  padding: 3%;
+}
+
+#logo_column {
+  width: 30%;
+}
+
+.btn1 {
+  border-color: #ff0080;
+  background-color: rgba(255, 211, 229, 0.552);
+  border-radius: 5px;
+}
+
+.form-control {
+  border-color: hotpink;
+}

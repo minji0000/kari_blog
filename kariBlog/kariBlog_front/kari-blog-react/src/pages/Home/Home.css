@@ -1,6 +1,8 @@
 .main {
-  height: 100%;
+  height: 130vh;
   width: 100;
+  padding: 2%;
+  
 }
 
 .container {
@@ -10,4 +12,8 @@
 
 #logo_dog {
   width: 50%;
+}
+
+.text-center{
+  text-align: center;
 }
