@@ -8,6 +8,7 @@ public class KariBlogApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KariBlogApplication.class, args);
+        System.out.println("하잉");
     }
 
 }
