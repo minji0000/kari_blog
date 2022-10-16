@@ -1,0 +1,1 @@
+package com.kari.kariblog.service;public class PracticeService {}

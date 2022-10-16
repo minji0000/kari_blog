@@ -3,6 +3,7 @@ import Register from "../Register/Register";
 import "./Home.css";
 import LogoDog from './/logo_dog.jpg'
 import Login from "../../components/Login/Login";
+import Practice from "../Practice/Practice";
 
 function Home() {
   return (

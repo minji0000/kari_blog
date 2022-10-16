@@ -42,8 +42,6 @@ function RegisterForm() {
           
           <button type='submit' className='btn-kari btn1 col-md-4'> 회원가입 </button>
         
-        
-        
         </form>
       
       </div>
